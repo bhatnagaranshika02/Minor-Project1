@@ -6,7 +6,7 @@ of the bus so that they do not miss their bus. This will also avoid panic the st
 The application also has voice notification support so the student need not look at the smartphone while walking for their stops avoiding the chances of accidents</p>
 
 <h3>Screenshots</h3>
-https://github.com/bhatnagaranshika02/MinorProject1/blob/master/add%20copy.png
+<img src="https://github.com/bhatnagaranshika02/MinorProject1/blob/master/add%20copy.png" alt="Admin Panel">
 
 <h3>Technical Specifications</h3>
 <p>This is a bus tracking application made using Python Kivy Framework and Firebase NoSQL database.
